@@ -1,0 +1,21 @@
+h5{
+  width: 100%
+}
+#vertical{
+  height: 500px;
+}
+span{
+  font-size: 30px
+}
+
+ul li{
+  padding: 15px;
+  padding-left: auto;
+  padding-right: auto
+}
+#linea{
+  border: 1px solid black
+}
+#social{
+  margin: 0
+}

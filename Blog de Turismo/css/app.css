@@ -1,0 +1,17 @@
+
+nav ul li{
+  text-decoration: none;
+  display: block;
+}
+
+body{
+  background: url('../img/imagen.jpg') no-repeat fixed;
+	background-size: cover;
+	min-height: 650px;
+	position: relative;
+
+}
+.contenedor{
+  background: rgba(28,74,90, 0.9);
+  color: #f4f4f4
+}
